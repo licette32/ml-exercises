@@ -19,4 +19,21 @@ Haz clic en los enlaces para abrir cada notebook directamente en Colab:
 ruta del archivo según la estructura del repositorio.
 
 ## 📂 Estructura del repositorio
-
+```
+ml-exercises/
+│
+├── classification/
+│ ├── logistic_regression.ipynb
+│ ├── random_forest.ipynb
+│ ├── lightgbm.ipynb
+│ └── logistic_regression.py
+│
+├── regression/
+│ ├── linear_regression.ipynb
+│ ├── decision_tree.ipynb
+│ └── gradient_boosting.ipynb
+│
+└── clustering/
+├── kmeans.ipynb
+└── dbscan.ipynb
+```
