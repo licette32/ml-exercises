@@ -15,6 +15,9 @@ Haz clic en los enlaces para abrir cada notebook directamente en Colab:
 | Gradient Boosting con LightGBM | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TU_USUARIO/ml-exercises/blob/main/classification/lightgbm.ipynb) |
 | Regresión Lineal | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TU_USUARIO/ml-exercises/blob/main/regression/linear_regression.ipynb) |
 
+
+[![Abrir en Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/tu_usuario/tu_notebook)
+
 > ⚡ **Tip:** Cambia `TU_USUARIO` por tu nombre de usuario y ajusta la
 ruta del archivo según la estructura del repositorio.
 
