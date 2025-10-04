@@ -1,0 +1,20 @@
+# Manipulación de datos
+pandas
+numpy
+
+# Visualización
+matplotlib
+seaborn
+plotly
+
+# Machine Learning
+scikit-learn
+lightgbm
+xgboost
+
+# Dashboards (opcional, puedes elegir uno)
+streamlit
+dash
+
+# Otras utilidades comunes
+jupyter
